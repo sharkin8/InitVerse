@@ -31,7 +31,7 @@ To combine DPoS and PoA for consensus, InitVerse Chain implement a novel consens
 
 1. Blocks are produced by a limited set of validators.
 2. Validators take turns to produce blocks in a POR manner, similar to Ethereum's Clique consensus engine.
-3. Parlia consensus engine will interact with a set of [system contracts](https://github.com/Project-InitVerse/chain_dpos_contract) to achieve liveness slash, revenue distributing and validator set renewing func.
+3. Parlia consensus engine will interact with a set of [system contracts](https://github.com/InitVerse/chain_dpos_contract) to achieve liveness slash, revenue distributing and validator set renewing func.
 
 
 ## Native Token
